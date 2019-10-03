@@ -16,15 +16,15 @@ class Finder(object):
     def parcer(self, resp):
         topics = {}
         now = datetime.datetime.now()
-        topics["url="] = [self.url]
-        topics["Date"] = [str(now)]
-        topics["Titles"] = []
+        topics["url"] = [self.url]
+        topics["creationDate"] = [str(now)]
+        topics["articles"] = []
         resp = requests.get(self.url)
         if resp.status_code == 200:
             soup3 = BeautifulSoup(resp.text, 'html.parser')
             l3 = soup3.find("div", {"class": "lent-left"})
             for i in l3.findAll("div", "title lent-title"):
-                topics["Titles"].append({"Title": i.text})
+                topics["title"].append({"Title": i.text})
         else:
             print("All for now")
         return topics
