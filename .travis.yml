@@ -7,5 +7,6 @@ install:
 # command to run tests
 script:
   #- python -m unittest discover
+  - python 1_test.py
   - python 2_test.py
   - python 3_test.py
