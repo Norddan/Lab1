@@ -8,3 +8,4 @@ install:
 script:
   #- python -m unittest discover
   - python 2_test.py
+  - python 3_test.py
