@@ -6,7 +6,4 @@ install:
   - pip install -r requirements.txt
 # command to run tests
 script:
-  #- python -m unittest discover
-  python 1_test.py
-  python 2_test.py
-  python 3_test.py
+  - python -m unittest discover
