@@ -3,8 +3,7 @@ from bs4 import BeautifulSoup
 import json
 import codecs
 import datetime
-import http.server
-import socketserver
+from flask import Flask
 
 class Finder(object):
 
@@ -24,7 +23,7 @@ class Finder(object):
             soup3 = BeautifulSoup(resp.text, 'html.parser')
             l3 = soup3.find("div", {"class": "lent-left"})
             for i in l3.findAll("div", "title lent-title"):
-                topics["title"].append({"Title": i.text})
+                topics["articles"].append({"Title": i.text})
         else:
             print("All for now")
         return topics
@@ -32,14 +31,12 @@ class Finder(object):
         with codecs.open("StopGame.json", "w", encoding="utf-8") as outfile:
             json.dump(topics, outfile, indent=4, ensure_ascii=False, separators=(',', ': '))
         outfile.close()
+
+
 def main():
-    PORT = 8080
-    Handler = http.server.SimpleHTTPRequestHandler
-    with socketserver.TCPServer(("", PORT), Handler) as httpd:
-        Parcer = Finder("https://stopgame.ru/news")
-        resp3 = Parcer.url_stuff()
-        top = Parcer.parcer(resp3)
-        Parcer.write_json(top)
-        httpd.serve_forever()
+    Parcer = Finder("https://stopgame.ru/news")
+    resp3 = Parcer.url_stuff()
+    top = Parcer.parcer(resp3)
+    Parcer.write_json(top)
 if __name__=="__main__":
     main()
