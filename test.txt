@@ -1,1 +1,606 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" prefix="video: http://ogp.me/ns/video#" prefix="ya: https://webmaster.yandex.ru/vocabularies/" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Игровые новости</title>
+<meta name="description" content="Новости - игровые новости, сайт игровых новостей, самые свежие и последние игровые новости">
+<meta name="keywords" content=" игровые новости, xbox, pc, games, news, игры, новинки, wii, ps2, psp, ps3, скачать бесплатно">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@stopgameru">
+<link rel="alternate" type="application/rss+xml" title="Все новинки сайта" href="https://rss.stopgame.ru/rss_all.xml">
+<link rel="alternate" type="application/rss+xml" title="Игровые новости" href="https://rss.stopgame.ru/rss_news.xml">
+<link rel="alternate" type="application/rss+xml" title="Коды к играм" href="https://rss.stopgame.ru/rss_help.xml">
+<link rel="alternate" type="application/rss+xml" title="Прохождения" href="https://rss.stopgame.ru/rss_sols.xml">
+<link rel="alternate" type="application/rss+xml" title="Советы и тактика" href="https://rss.stopgame.ru/rss_tactics.xml">
+<link rel="alternate" type="application/rss+xml" title="Трейнеры" href="https://rss.stopgame.ru/rss_trainers.xml">
+<link rel="alternate" type="application/rss+xml" title="Сохранения" href="https://rss.stopgame.ru/rss_saves.xml">
+<link rel="alternate" type="application/rss+xml" title="Обзоры игр" href="https://rss.stopgame.ru/rss_review.xml">
+<link rel="alternate" type="application/rss+xml" title="Превью игр" href="https://rss.stopgame.ru/rss_preview.xml">
+<link rel="alternate" type="application/rss+xml" title="Первая полоса" href="https://rss.stopgame.ru/rss_frontpage.xml">
+<link rel="alternate" type="application/rss+xml" title="Видеообзоры игр" href="https://rss.stopgame.ru/rss_vreview.xml">
+<link rel="alternate" type="application/rss+xml" title="Видеопревью игр" href="https://rss.stopgame.ru/rss_vpreview.xml">
+<link rel="alternate" type="application/rss+xml" title="Игрозор" href="https://rss.stopgame.ru/rss_igrozor.xml">
+<link rel="alternate" type="application/rss+xml" title="Ретрозор" href="https://rss.stopgame.ru/rss_retrozor.xml">
+<link rel="alternate" type="application/rss+xml" title="Машинима" href="https://rss.stopgame.ru/rss_machinima.xml">
+<link rel="alternate" type="application/rss+xml" title="Игровое кино" href="https://rss.stopgame.ru/rss_gamemovie.xml">
+<link rel="alternate" type="application/rss+xml" title="История серии" href="https://rss.stopgame.ru/rss_games_history.xml">
+<link rel="alternate" type="application/rss+xml" title="Записи live-трансляций" href="https://rss.stopgame.ru/rss_live.xml">
+<link rel="alternate" type="application/rss+xml" title="Трейлеры к играм" href="https://rss.stopgame.ru/rss_trailers.xml">
+<link rel="alternate" type="application/rss+xml" title="Appzor" href="https://rss.stopgame.ru/rss_appzor.xml">
+<link rel="alternate" type="application/rss+xml" title="Индикатор" href="https://rss.stopgame.ru/rss_indicator.xml">
+<link rel="alternate" type="application/rss+xml" title="ММОдерн" href="https://rss.stopgame.ru/rss_mmodern.xml">
+<link rel="alternate" type="application/rss+xml" title="Другое видео" href="https://rss.stopgame.ru/rss_sgtv.xml">
+<link rel="alternate" type="application/rss+xml" title="Блоги - новые темы (все)" href="https://rss.stopgame.ru/all_topics.xml">
+<link rel="alternate" type="application/rss+xml" title="Блоги - новые темы (в плюсе)" href="https://rss.stopgame.ru/good_topics.xml"><meta name="google-site-verification" content="kYZu0zWY2wQ_EoBBhF_2FkoWQckLwrMhaX3wlI4A8y4">
+<meta name="msvalidate.01" content="B6C7E09E544A163FC40A1519A8CAFBC2">
+<meta name="theme-color" content="#313131">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-144.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144.png">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js?49"></script>
+<script type="text/javascript" src="https://yastatic.net/pcode/adfox/loader.js?49"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, user-scalable=yes">
+<link rel="stylesheet" href="https://static.stopgame.ru/styles/?adaptive&58" type="text/css">
+<script charset="UTF-8" src="//cdn.sendpulse.com/28edd3380a1c17cf65b137fe96516659/js/push/9e69328649baaa009cda17e04a17ad3a_1.js" async></script>
 
+</head>
+
+<body class="global-mainpage" style="overflow-x:hidden;">
+<div class="wrapper section-main-content">
+
+<div class="responsive-header-wrapper">
+<div class="responsive-header">
+<span class="logo"><a href="/"><img src="https://stopga.me/images/site/logo.png" alt="StopGame - игры, новости, обзоры, игровое видео, машинима и трейлеры, а также коды и прохождения игр"></a></span>
+<span class="open-menu" id="mobile-menu">Меню</span>
+<span class="user-login" id="mobile-user"></span>
+
+</div>
+</div>
+
+<div class="mobile_menu_close"></div>
+<div class="header_menu">
+<div class="section section-header">
+<div class="logo"><a href="/"><img src="https://stopga.me/images/site/logo.png" alt="StopGame - игры, новости, обзоры, игровое видео, машинима и трейлеры, а также коды и прохождения игр"></a></div>
+
+<div class="counters-top">
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = _tmr || [];
+_tmr.push({id: "49039", type: "pageView", start: (new Date()).getTime()});
+(function (d, w) {
+   var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+   ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+   var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+   if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);
+</script><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=49039;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+<!--LiveInternet counter-->
+<script type="text/javascript"><!--
+new Image().src = "//counter.yadro.ru/hit?r"+escape(document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";h"+escape(document.title.substring(0,80))+
+";"+Math.random();//-->
+</script>
+<!--/LiveInternet--></div>
+
+<div class="social-links">
+<a class="soc-link vk" target="_blank" title="StopGame в VK" href="/click/?https://vk.com/stopgameru"></a>
+<a class="soc-link fb" target="_blank" title="StopGame на Facebook" href="/click/?https://facebook.com/stopgameteam"></a>
+<a class="soc-link tw" target="_blank" title="StopGame в Twitter" href="/click/?https://twitter.com/stopgameru"></a>
+<a class="soc-link yt" target="_blank" title="Официальный канал StopGame на Youtube" href="/click/?https://www.youtube.com/user/stopgameru"></a>
+<a class="soc-link steam" target="_blank" title="Группа StopGame в Steam" href="/click/?https://steamcommunity.com/groups/stopgamecommunity"></a>
+<a class="soc-link twitch" target="_blank" title="StopGame в Twitch" href="/click/?https://www.twitch.tv/stopgameru/"></a>
+<a class="soc-link telegram" target="_blank" title="Новостной канал StopGame в Telegram" href="/click/?https://telegram.me/stopgameru"></a>
+<a class="soc-link instagram" target="_blank" title="StopGame в Instagram" href="/click/?https://www.instagram.com/stopgameru/"></a>
+<a class="soc-link shop" target="_blank" title="Футболки и принты от StopGame" href="/click/?http://shop.stopgame.ru/"></a>
+</div>
+
+<div class="user-manage user-new">
+<form method="post" action="/users/login">
+<table class="user-table">
+<tr>
+<td><input class="input-field login-field" name="user_name" id="login-field" type="text" placeholder="Ваш логин" /></td>
+<td><input class="input-field pwd-field" name="user_pass" id="pwd" type="password" placeholder="пароль" /></td>
+<td><button class="button-type button-gray button-login" type="submit">Войти</button></td>
+</tr>
+<tr>
+<td><a class="user-link" href="/users/register">Зарегистрироваться</a></td>
+<td><a class="user-link" href="/users/forgot">Забыли пароль</a></td>
+<td></td>
+</tr>
+</table>
+</form>
+</div>
+<div class="clr"></div>
+</div>
+<div class="section section-menu">
+<div class="menu-holder">
+<table class="menu-div">
+<tr>
+<td class="separ"></td>
+<td class="menu-cell"><div class="menu-parent menu-submenu"><a class="menu-link" href="#" onclick="return false;"><span>Игры</span></a><span class="menu-show-more"></span></div><div class="menu-drop"><span class="menu-show-less">Назад</span><span class="menu-drop-header">Игры</span><a class="menu-drop-link" href="/search/?where=games">Поиск</a><a class="menu-drop-link" href="/dates">Даты выхода</a><a class="menu-drop-link" href="/blogs/reviews">Обзоры посетителей</a><a class="menu-drop-link" href="/facts">Факты</a><a class="menu-drop-link" href="/topgames">Топ-100</a><a class="menu-drop-link" href="/mods">Модификации</a><a class="menu-drop-link" href="/mobile_games">Обзор мобильных игр</a></div></td><td class="separ"></td><td class="menu-cell"><div class="menu-parent menu-submenu"><a class="menu-link" href="/news"><span>Новости</span></a><span class="menu-show-more"></span></div><div class="menu-drop"><span class="menu-show-less">Назад</span><span class="menu-drop-header">Новости</span><a class="menu-drop-link" href="/news">Все</a><a class="menu-drop-link" href="/news/gamescom"><b>gamescom</b></a><a class="menu-drop-link" href="/news/pc">PC</a><a class="menu-drop-link" href="/news/x360">Xbox 360</a><a class="menu-drop-link" href="/news/xone">Xbox One</a><a class="menu-drop-link" href="/news/ps3">PlayStation 3</a><a class="menu-drop-link" href="/news/ps4">PlayStation 4</a><a class="menu-drop-link" href="/news/psvita">PS Vita</a><a class="menu-drop-link" href="/news/stadia">Stadia</a><a class="menu-drop-link" href="/news/vr">VR</a><a class="menu-drop-link" href="/news/wiiu">Wii U</a><a class="menu-drop-link" href="/news/nintendo_switch">Nintendo Switch</a><a class="menu-drop-link" href="/news/madbox">Mad Box</a><a class="menu-drop-link" href="/news/mmo">ММО</a><a class="menu-drop-link" href="/news/mobile">Мобильные</a><a class="menu-drop-link" href="/news/social">Социальные</a><a class="menu-drop-link" href="/news/hard">Железо</a><a class="menu-drop-link" href="/news/industry">Индустрия</a><a class="menu-drop-link" href="/news/cybersport">Киберспорт</a><a class="menu-drop-link" href="/news/movies">Кино</a></div></td><td class="separ"></td><td class="menu-cell"><div class="menu-parent menu-submenu"><a class="menu-link" href="/articles/new"><span>Статьи</span></a><span class="menu-show-more"></span></div><div class="menu-drop"><span class="menu-show-less">Назад</span><span class="menu-drop-header">Статьи</span><a class="menu-drop-link" href="/frontpage/new">Первая полоса</a><a class="menu-drop-link" href="/review/new">Рецензии</a><a class="menu-drop-link" href="/preview/new">Превью</a><a class="menu-drop-link" href="/interview/new">Интервью</a><a class="menu-drop-link" href="/hard/new">Железный дайджест</a></div></td><td class="separ"></td><td class="menu-cell"><div class="menu-parent menu-submenu"><a class="menu-link" href="/video/new"><span>Видео</span></a><span class="menu-show-more"></span></div><div class="menu-drop"><span class="menu-show-less">Назад</span><span class="menu-drop-header">Видео</span><a class="menu-drop-link" href="/infact/new">Инфакт</a><a class="menu-drop-link" href="/igrozor/new">Игрозор</a><a class="menu-drop-link" href="/calendar/new">Календарь релизов</a><a class="menu-drop-link" href="/mmodern/new">ММОдерн</a><a class="menu-drop-link" href="/retrozor/new">Ретрозор</a><a class="menu-drop-link" href="/indicator/new">Индикатор</a><a class="menu-drop-link" href="/appzor/new">Appzor</a><a class="menu-drop-link" href="/review/new/video">Обзоры</a><a class="menu-drop-link" href="/preview/new/video">Превью</a><a class="menu-drop-link" href="/vreports/new">Репортажи</a><a class="menu-drop-link" href="/razbor/new">Разбор полетов</a><a class="menu-drop-link" href="/games_history/new">История серии</a><a class="menu-drop-link" href="/trailers/new">Трейлеры</a><a class="menu-drop-link" href="/machinima/new">Машинима</a><a class="menu-drop-link" href="/gamemovie/new">Игровое кино</a><a class="menu-drop-link" href="/trudnosti/new">Трудности перевода</a><a class="menu-drop-link" href="/sgtv/new">Другое</a></div></td><td class="separ"></td><td class="menu-cell"><div class="menu-parent menu-submenu"><a class="menu-link" href="#" onclick="return false;"><span>LIVE</span></a><span class="menu-show-more"></span></div><div class="menu-drop"><span class="menu-show-less">Назад</span><span class="menu-drop-header">LIVE</span><a class="menu-drop-link" href="/live_schedule">Расписание эфиров</a><a class="menu-drop-link" href="/live/new">Записи трансляций</a><a class="menu-drop-link" href="/stream/new">Трансляции</a></div></td><td class="separ"></td><td class="menu-cell"><div class="menu-parent menu-submenu"><a class="menu-link" href="#" onclick="return false;"><span>Секреты</span></a><span class="menu-show-more"></span></div><div class="menu-drop"><span class="menu-show-less">Назад</span><span class="menu-drop-header">Секреты</span><a class="menu-drop-link" href="/solutions/new">Прохождения</a><a class="menu-drop-link" href="/cheats/new">Чит-коды</a><a class="menu-drop-link" href="/trainers/new">Трейнеры</a><a class="menu-drop-link" href="/saves/new">Сохранения</a><a class="menu-drop-link" href="/tactics/new">Советы и тактика</a></div></td><td class="separ"></td><td class="menu-cell"><div class="menu-parent menu-submenu"><a class="menu-link" href="#" onclick="return false;"><span>Галерея</span></a><span class="menu-show-more"></span></div><div class="menu-drop"><span class="menu-show-less">Назад</span><span class="menu-drop-header">Галерея</span><a class="menu-drop-link" href="/screenshots/new">Скриншоты</a><a class="menu-drop-link" href="/wallpapers/new">Обои</a></div></td><td class="separ"></td><td class="menu-cell"><div class="menu-parent menu-submenu"><a class="menu-link" href="/blogs"><span>Блоги</span></a><span class="menu-show-more"></span></div><div class="menu-drop"><span class="menu-show-less">Назад</span><span class="menu-drop-header">Блоги</span><a class="menu-drop-link" href="/blogs">Новые темы</a><a class="menu-drop-link" href="/blogs/communities">Сообщества</a><a class="menu-drop-link" href="/blogs/top/good/month">Топ</a></div></td><td class="separ"></td><td class="menu-cell"><div class="menu-parent menu-submenu"><a class="menu-link" href="/users"><span>Люди</span></a><span class="menu-show-more"></span></div><div class="menu-drop"><span class="menu-show-less">Назад</span><span class="menu-drop-header">Люди</span><a class="menu-drop-link" href="/users">Новые</a><a class="menu-drop-link" href="/users/online">В онлайне</a><a class="menu-drop-link" href="/users/rating">Рейтинг</a><a class="menu-drop-link" href="/search/?where=users">Поиск</a></div></td><td class="separ"></td><td class="menu-cell"><div class="menu-parent menu-submenu"><a class="menu-link" href="/faq"><span>FAQ</span></a><span class="menu-show-more"></span></div><div class="menu-drop"><span class="menu-show-less">Назад</span><span class="menu-drop-header">FAQ</span><a class="menu-drop-link" href="/faq">Новые вопросы</a><a class="menu-drop-link" href="/faq/popular">Популярные</a><a class="menu-drop-link" href="/rules">Правила сайта</a><a class="menu-drop-link" href="/site_help">Помощь по сайту</a><a class="menu-drop-link" href="/jobs">Работа на сайте</a></div></td><td class="separ"></td><td class="search-cell">
+
+<form action="/search/" method="GET">
+
+<div class="input-group active-search">
+<div class="search-tooltip">
+<input class="input-field search-field" name="s" type="text" placeholder="Поиск по сайту" id="search_input">
+<input type="submit" value="Искать" class="search-submit">
+<div class="clr"></div>
+</div>
+</div>
+
+<div class="search-additional">
+<select name="where">
+<option value="games">по играм</option>
+<option value="news" selected>в новостях</option>
+<option value="blogs">в блогах</option>
+<option value="articles">в статьях</option>
+<option value="video">в видео</option>
+<option value="cheats">в кодах и прохождениях</option>
+<option value="comments">в комментариях</option>
+<option value="users">по пользователям</option>
+</select>
+
+<div class="clr"></div>
+<div class="show-alphabet"><a href="#" class="dotted-gray">Поиск игр по алфавиту</a></div>
+
+<div class="alphabet-list">
+<ul>
+<li><a href="/games/a">A</a></li><li><a href="/games/b">B</a></li><li><a href="/games/c">C</a></li><li><a href="/games/d">D</a></li><li><a href="/games/e">E</a></li><li><a href="/games/f">F</a></li><li><a href="/games/g">G</a></li><li><a href="/games/h">H</a></li><li><a href="/games/i">I</a></li><li><a href="/games/j">J</a></li><li><a href="/games/k">K</a></li><li><a href="/games/l">L</a></li><li><a href="/games/m">M</a></li><li><a href="/games/n">N</a></li><li><a href="/games/o">O</a></li><li><a href="/games/p">P</a></li><li><a href="/games/q">Q</a></li><li><a href="/games/r">R</a></li><li><a href="/games/s">S</a></li><li><a href="/games/t">T</a></li><li><a href="/games/u">U</a></li><li><a href="/games/v">V</a></li><li><a href="/games/w">W</a></li><li><a href="/games/x">X</a></li><li><a href="/games/y">Y</a></li><li><a href="/games/z">Z</a></li><li><a href="/games/num">NUM</a></li><li><a href="/games/rus">RUS</a></li></ul>
+</div>
+</div>
+
+</form>
+
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="header_menu_space"></div>
+<div class="section-breadcrumbs">
+<a href="/" class="bread-parent">StopGame</a>
+<span class="breadcrumbs-arrow">&nbsp;</span><span class="bread-child">Игровые новости</span></div>
+<div class="announcers-wrap show_on_load">
+<div class="section section-general-title title-red">
+<div class="color-title">
+<h3>Самое актуальное</h3>
+</div>
+<div class="clr"></div>
+</div>
+<script>
+	$(function(){
+		$('.flexslider').flexslider({animation:"slide",animationLoop:true,itemWidth:192,maxItems:5,move:3,pauseOnHover:true,slideshowSpeed:3000,controlNav:false,itemMargin:5});
+	});
+</script>
+
+<div class="second-announcer second-slider">
+
+<div class="flexslider">
+<ul class="slides">
+<li>
+<a href="/show/106188/i_kakaya_zhe_eto_switch_review_nintendo_switch_lite" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/articles/2019/10/06/c192x108/SO1m-cZmSUSUkd_KgPkkPw/GkhjpUg.jpg" alt="И какая же это Switch? Обзор Nintendo Switch Lite" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106187/yooka_laylee_and_the_impossible_lair_review" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/articles/2019/10/06/c192x108/3LT_IlXFpHx4QyJxWd95aA/QTiN9JDXj.jpg" alt="Yooka-Laylee and the Impossible Lair: Обзор" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106186/blasphemous_review" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/articles/2019/10/05/c192x108/5Uu-99ubrMhsGeQHdjfq9A/WaQcvymT-.jpg" alt="Blasphemous: Обзор" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106179/lost_ark_kovcheg_est_a_esli_naydu" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/video/2019/10/05/c192x108/4rwScbWoYoX_2RiFtWd9bw/KS_4AOh3a.jpg" alt="LOST ARK. Ковчег есть? А если найду?" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106178/dead_by_daylight_stranger_things_ty_sam_po_sebe" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/video/2019/10/05/c192x108/KRrkuwBJ5PTJnj7NmKtF6A/QABeD5fW.jpg" alt="DEAD BY DAYLIGHT: STRANGER THINGS. Ты сам по себе" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106173/bolshoy_videoigrovoy_reportazh_iz_yaponii" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/video/2019/10/05/c192x108/K4Eg_8IYVFD4pwarTiUVGw/rH2P7gDh.jpg" alt="Большой видеоигровой репортаж из Японии!" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106172/polnaya_istoriya_fargusa_i_piratskih_perevodov" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/video/2019/10/04/c192x108/MsYq_UMgIlb5jnPJV_aR0w/RDqvJiQ.jpg" alt="Полная история «Фаргуса» и пиратских переводов" width="192" height="108"></a>
+</li>
+<li>
+<a href="/static/shodka2019/index.php" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/articles/2019/10/01/c192x108/Ldff0AvRRatkAhgBd6YBuA/fe3qdo-1569922712.jpg" alt="Сходка StopGame.Ru на «ИгроМире»" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106171/infact_04_10_2019" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/video/2019/10/04/c192x108/g9t5odBBbupyDHpLqgSepA/PBdz2N9.jpg" alt="«Инфакт» от 04.10.2019 — «ИгроМир» 2019, Daggerfall в Skyrim, сверхсекрет Division 2…" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106170/fifa_20_review" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/articles/2019/10/03/c192x108/FUA3gLRUN9PMOk8ni6DIdw/Yoxjxm5c.jpg" alt="FIFA 20: Обзор" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106167/half_life_2_cpidrannery_protiv_patchey_ot_valve" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/video/2019/10/02/c192x108/Zko_y3cPu0xjloNikgbQFg/b1w-XgBDi.jpg" alt="Half-Life 2: cпидраннеры против патчей от Valve" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106096/obzor_obnovleniya_conqueror_s_blade" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/video/2019/09/30/c192x108/wtk3-6DlgRYnNpkpzDVcDw/brnqHR_p.jpg" alt="Обзор обновления Conqueror's Blade" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106095/naydi_10_otlichiy_review_novoy_revizii_nintendo_switch" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/articles/2019/09/30/c192x108/YLvAseuATn2U_WOnWZC_NQ/4iZ39Gve.jpg" alt="Найди 10 отличий — обзор новой ревизии Nintendo Switch" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106091/dragon_quest_xi_s_echoes_of_an_elusive_age_definitive_edition_review" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/articles/2019/09/30/c192x108/2ETkzDZ9Tt6b-3--hC5FdA/qNPwapof.jpg" alt="Dragon Quest XI S: Echoes of an Elusive Age — Definitive Edition: Обзор" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106089/surge_2_videoreview" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/articles/2019/09/30/c192x108/N8PcOZ5IHxHk0SoC2XqLTg/fQaEWWeyx.jpg" alt="The Surge 2: Видеообзор" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106088/stygian_reign_of_the_old_ones_review" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/articles/2019/09/30/c192x108/znzqRob2-3ZSFLlO1rJM2Q/ZSJBMPWW.jpg" alt="Stygian: Reign of the Old Ones: Обзор" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106087/police_stories_review" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/articles/2019/09/30/c192x108/XHW_blrpDWOeSD8fTO0bmQ/GnxervLD.jpg" alt="Обзор игры Police Stories" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106083/poedatel_urana_luchshie_momenty_na_stopgame_ru" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/video/2019/09/30/c192x108/L9YGcN05_klAc3lqW4lUwg/v6aMT8Wk_.jpg" alt="Поедатель урана / Лучшие моменты на StopGame.ru" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106077/5000000_rubley" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/video/2019/09/29/c192x108/2ND9AQfpA7-tOEFRM2nFfw/EYuued9o3.jpg" alt="На что геймер потратит 5 000 000 рублей? Самые дорогие игра, консоль, ПК и другое!" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106076/sojourn_review" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/articles/2019/09/29/c192x108/5kKoRHluTBzbjLNeTnIc1w/OGwkxwC_.jpg" alt="The Sojourn: Обзор" width="192" height="108"></a>
+</li>
+<li>
+<a href="/blogs/topic/98315" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/articles/2019/09/29/c192x108/FMPvARykR2-wno2JLC5oWQ/iveHV-1569769214.jpg" alt="Блоги. Hollow Knight – история о настоящем рыцарстве" width="192" height="108"></a>
+</li>
+<li>
+<a href="/blogs/topic/98342" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/articles/2019/09/29/c192x108/ch0r40Ml_Nj_s2bp_TltdQ/yIjvQS5-1569769187.jpg" alt="Блоги, Видеоигровой «День сурка»: как (не)потеряться в петле времени" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106074/surge_2_review" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/articles/2019/09/29/c192x108/ZlL6wEcDV9AJsrbc9rix-Q/CZDz9fwVv.jpg" alt="The Surge 2: Обзор" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106073/daymare_1998_videoreview" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/articles/2019/09/28/c192x108/isNWjC1-KrHvEceTv-ri3Q/_m3W9g3l.jpg" alt="Daymare: 1998: Видеообзор" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106069/antichitery_voyna_beskonechnosti" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/video/2019/09/27/c192x108/3saqcQ3GaOFhhCOryYl3_Q/sY-klfnKX.jpg" alt="Античитеры. Война бесконечности" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106036/overland_review" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/articles/2019/09/26/c192x108/q_nK2ZTYxU6lfoUwtI-pyA/mj-Bkq7.jpg" alt="Overland: Обзор" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106033/dead_space_3_chast_kotoraya_ubila_seriyu_istoriya_serii" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/video/2019/09/26/c192x108/TeccSDaQoSqGMfQzm3cBlg/yL5HrvODY.jpg" alt="Dead Space 3. Часть, которая убила серию" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106018/poigrali_v_kalibr" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/video/2019/09/25/c192x108/m9fqWSdXP4wLRdx_o9-jLA/qbRlE_oA.jpg" alt="Поиграли в «Калибр»" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106017/crying_suns_review" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/articles/2019/09/25/c192x108/V_19ad7857i_xo340CwbTQ/1_ritMcq.jpg" alt="Crying Suns: Обзор" width="192" height="108"></a>
+</li>
+<li>
+<a href="/show/106014/cat_quest_2_review" onClick="yaCounter36906115.reachGoal('small_announcer'); return true;"><img src="https://stopga.me/images/articles/2019/09/24/c192x108/gMyt270Ba34g5IbWP1179g/2SYxpmN.jpg" alt="Cat Quest 2: Обзор" width="192" height="108"></a>
+</li>
+</ul>
+</div>
+
+</div>
+<div class="clr"></div>
+</div>
+<div class="ban1020x120"><div><!-- Yandex.RTB R-A-448424-2 -->
+<div id="yandex_rtb_R-A-448424-2"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-448424-2",
+                renderTo: "yandex_rtb_R-A-448424-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script></div></div><div class="section section-general-title title-blue">
+<div class="color-title "><h1>Игровые новости</h1></div><div class="title-actions hide1035"><ul class="title-menu"><li class="active"><a href="/news">новости</a></li><li><a href="/articles/new">статьи</a></li><li><a href="/video/new">видео</a></li><li><a href="/blogs">блоги</a></li><li><a href="/faq">вопросы</a></li></div><div class="clr"></div></div><div class="section-news-lent page-separator page-reverse list-type-view"><div class="left-wrap"><div class="lent-left"><div class="tab-menus tab-type2">
+<ul class="switcher3">
+<li class="active"><a href="/news">Коротко</a></li>
+<li><a href="/news/?full=1">Полные новости</a></li>
+</ul>
+</div>
+<div class="lent-block news-lent"><div class="lent-image"><a href="/newsdata/40254"><img src="https://stopga.me/images/news/2019/10/05/c170x96/61oeyOG4vjBNmaEejneM-w/Sq0B4H4D.jpg"  srcset="https://stopga.me/images/news/2019/10/05/c480x270/lQnRAj5UBmioNJO4WJxpcw/Sq0B4H4D.jpg 2x" alt="Разработчики Rainbow Six Siege думают ввести оперативника с собакой и стрелка по-македонски"></a></div><div class="lent-brief"><div class="title lent-title"><a href="/newsdata/40254">Разработчики Rainbow Six Siege думают ввести оперативника с собакой и стрелка по-македонски</a></div><div class="brief"><p>Руководитель по визуальному оформлению Rainbow Six Siege Александр Карпазис (Alexander Karpazis) записал материал для издания Wired. Он кратко ответил… <a class="read-more" href="/newsdata/40254" rel="nofollow"></a></p></div><div class="lent-actions"><div class="lent-date"><span class="glyphicons glyphicons-calendar"></span>05.10.2019</div><div class="lent-views"><span class="glyphicons glyphicons-eye-open"></span>5884</div><div class="lent-comments"><span class="glyphicons glyphicons-comments"></span>63</div><div class="tags"><span class="glyphicons glyphicons-tag"></span><a href="/news/pc">PC</a>, <a href="/news/ps4">PlayStation 4</a>, <a href="/news/xone">Xbox One</a></div></div></div></div><div class="lent-block news-lent"><div class="lent-image"><a href="/newsdata/40253"><img src="https://stopga.me/images/news/2019/10/05/c170x96/T7jHhbdOrqvonuMVIc7xrw/7wrouzqCh.jpg"  srcset="https://stopga.me/images/news/2019/10/05/c480x270/eTMuOWPbYvV2pRPwNgZ5ng/7wrouzqCh.jpg 2x" alt="В Bloodborne началось «Возвращение в Ярнам» — фанатское событие по оздоровлению онлайна"></a></div><div class="lent-brief"><div class="title lent-title"><a href="/newsdata/40253">В Bloodborne началось «Возвращение в Ярнам» — фанатское событие по оздоровлению онлайна</a></div><div class="brief"><p>У Bloodborne сформировалось преданное фанатское сообщество — настолько преданное, что поклонники регулярно устраивают «Возвращение в Ярнам». Это событ… <a class="read-more" href="/newsdata/40253" rel="nofollow"></a></p></div><div class="lent-actions"><div class="lent-date"><span class="glyphicons glyphicons-calendar"></span>05.10.2019</div><div class="lent-views"><span class="glyphicons glyphicons-eye-open"></span>7437</div><div class="lent-comments"><span class="glyphicons glyphicons-comments"></span>9</div><div class="tags"><span class="glyphicons glyphicons-tag"></span><a href="/news/ps4">PlayStation 4</a></div></div></div></div><div class="lent-block news-lent"><div class="lent-image"><a href="/newsdata/40252"><img src="https://stopga.me/images/news/2019/10/05/c170x96/nDHTR3TUu939CsEYieDh-Q/gK_cvnp71.jpg"  srcset="https://stopga.me/images/news/2019/10/05/c480x270/cv63-V0nIuUJI7q-NL3dOg/gK_cvnp71.jpg 2x" alt="Сообщество Fortnite жалуется, что новый матчмейкинг сводит вместе PC, консоли и телефоны, но Epic пока не считает это проблемой"></a></div><div class="lent-brief"><div class="title lent-title"><a href="/newsdata/40252">Сообщество Fortnite жалуется, что новый матчмейкинг сводит вместе PC, консоли и телефоны, но Epic пока не считает это проблемой</a></div><div class="brief"><p>В Fortnite: Battle Royale недавно ввели новый матчмейкинг: игра старается подобрать участников с примерно одинаковым уровнем мастерства. Проблема в то… <a class="read-more" href="/newsdata/40252" rel="nofollow"></a></p></div><div class="lent-actions"><div class="lent-date"><span class="glyphicons glyphicons-calendar"></span>05.10.2019</div><div class="lent-views"><span class="glyphicons glyphicons-eye-open"></span>5319</div><div class="lent-comments"><span class="glyphicons glyphicons-comments"></span>53</div><div class="tags"><span class="glyphicons glyphicons-tag"></span><a href="/news/mobile">Мобильные</a>, <a href="/news/nintendo_switch">Nintendo Switch</a>, <a href="/news/pc">PC</a>, <a href="/news/ps4">PlayStation 4</a>, <a href="/news/xone">Xbox One</a></div></div></div></div><div class="lent-block news-lent"><div class="lent-image"><a href="/newsdata/40251"><img src="https://stopga.me/images/news/2019/10/05/c170x96/j7b13HK7l3i7H8pHAct2og/W2ZBXjLWF.jpg"  srcset="https://stopga.me/images/news/2019/10/05/c480x270/tGtkqXwMjBz0QWzLg5DxNQ/W2ZBXjLWF.jpg 2x" alt="Мисс Марвел станет шестым играбельным персонажем Marvel's Avengers"></a></div><div class="lent-brief"><div class="title lent-title"><a href="/newsdata/40251">Мисс Марвел станет шестым играбельным персонажем Marvel's Avengers</a></div><div class="brief"><p>Crystal Dynamics и Square Enix представили шестого играбельного героя Marvel's Avengers — Камалу Хан, более известную как Мисс Марвел. Она умеет растя… <a class="read-more" href="/newsdata/40251" rel="nofollow"></a></p></div><div class="lent-actions"><div class="lent-date"><span class="glyphicons glyphicons-calendar"></span>05.10.2019</div><div class="lent-views"><span class="glyphicons glyphicons-eye-open"></span>3916</div><div class="lent-comments"><span class="glyphicons glyphicons-comments"></span>20</div><div class="tags"><span class="glyphicons glyphicons-tag"></span><a href="/news/pc">PC</a>, <a href="/news/ps4">PlayStation 4</a>, <a href="/news/stadia">Stadia</a>, <a href="/news/xone">Xbox One</a></div></div></div></div><div class="lent-block news-lent"><div class="lent-image"><a href="/newsdata/40250"><img src="https://stopga.me/images/news/2019/10/05/c170x96/j_9Vg4ui-gQelsI_NwvC9g/1lgCFFR9.jpg"  srcset="https://stopga.me/images/news/2019/10/05/c480x270/9zNtiGMXbU0BJ93qzHz6Dg/1lgCFFR9.jpg 2x" alt="Страница Call of Duty: Modern Warfare вернулась в российский PS Store. Предзаказать игру всё ещё нельзя"></a></div><div class="lent-brief"><div class="title lent-title"><a href="/newsdata/40250">Страница Call of Duty: Modern Warfare вернулась в российский PS Store. Предзаказать игру всё ещё нельзя</a></div><div class="brief"><p>В середине прошлого месяца стало известно, что Call of Duty: Modern Warfare не будет продаваться в российском сегменте PlayStation Store. Из магазина … <a class="read-more" href="/newsdata/40250" rel="nofollow"></a></p></div><div class="lent-actions"><div class="lent-date"><span class="glyphicons glyphicons-calendar"></span>05.10.2019</div><div class="lent-views"><span class="glyphicons glyphicons-eye-open"></span>3724</div><div class="lent-comments"><span class="glyphicons glyphicons-comments"></span>18</div><div class="tags"><span class="glyphicons glyphicons-tag"></span><a href="/news/ps4">PlayStation 4</a></div></div></div></div><div class="lent-block news-lent"><div class="lent-image"><a href="/newsdata/40249"><img src="https://stopga.me/images/news/2019/10/05/c170x96/GIsvL6_IqKqvymYTP3AvhA/224Af3I_.jpg"  srcset="https://stopga.me/images/news/2019/10/05/c480x270/_NOLMBrFVef1aBRuLAwQ7A/224Af3I_.jpg 2x" alt="Пришли, увидели, дали под зад! Релизный трейлер Ghostbusters: The Video Game Remastered"></a></div><div class="lent-brief"><div class="title lent-title"><a href="/newsdata/40249">Пришли, увидели, дали под зад! Релизный трейлер Ghostbusters: The Video Game Remastered</a></div><div class="brief"><p>Призраки вновь заполонили виртуальный Нью-Йорк! Спустя 10 лет после релиза Ghostbusters: The Video Game получила ремастер, о выходе которого Saber Int… <a class="read-more" href="/newsdata/40249" rel="nofollow"></a></p></div><div class="lent-actions"><div class="lent-date"><span class="glyphicons glyphicons-calendar"></span>05.10.2019</div><div class="lent-views"><span class="glyphicons glyphicons-eye-open"></span>2872</div><div class="lent-comments"><span class="glyphicons glyphicons-comments"></span>5</div><div class="tags"><span class="glyphicons glyphicons-tag"></span><a href="/news/nintendo_switch">Nintendo Switch</a>, <a href="/news/pc">PC</a>, <a href="/news/ps4">PlayStation 4</a>, <a href="/news/xone">Xbox One</a></div></div></div></div><div class="lent-block news-lent"><div class="lent-image"><a href="/newsdata/40248"><img src="https://stopga.me/images/news/2019/10/04/c170x96/FUGeknkABkY2Mb2CJamCzg/Apx4LhZx.jpg"  srcset="https://stopga.me/images/news/2019/10/04/c480x270/qEvcJo_nuUT2loxxJRShcQ/Apx4LhZx.jpg 2x" alt="Iron Man VR выйдет 28 февраля 2020-го. Смотрите сюжетный трейлер"></a></div><div class="lent-brief"><div class="title lent-title"><a href="/newsdata/40248">Iron Man VR выйдет 28 февраля 2020-го. Смотрите сюжетный трейлер</a></div><div class="brief"><p>Iron Man VR переехала на следующий год — вжиться в роль Железного человека мы сможем 28 февраля 2020-го. Об этом Marvel Games сообщила на нью-йоркском… <a class="read-more" href="/newsdata/40248" rel="nofollow"></a></p></div><div class="lent-actions"><div class="lent-date"><span class="glyphicons glyphicons-calendar"></span>04.10.2019</div><div class="lent-views"><span class="glyphicons glyphicons-eye-open"></span>2052</div><div class="lent-comments"><span class="glyphicons glyphicons-comments"></span>4</div><div class="tags"><span class="glyphicons glyphicons-tag"></span><a href="/news/ps4">PlayStation 4</a>, <a href="/news/vr">VR</a></div></div></div></div><div class="lent-block news-lent"><div class="lent-image"><a href="/newsdata/40247"><img src="https://stopga.me/images/news/2019/10/04/c170x96/aeG4Phl5y2QEDrr1hVs8XQ/aGfXybym.jpg"  srcset="https://stopga.me/images/news/2019/10/04/c480x270/VF_ln0P6cTeDzJT5V1CAOQ/aGfXybym.jpg 2x" alt="Олдскульный дух в современных реалиях — интервью с создателем серии Shenmue"></a></div><div class="lent-brief"><div class="title lent-title"><a href="/newsdata/40247">Олдскульный дух в современных реалиях — интервью с создателем серии Shenmue</a></div><div class="brief"><p>Game Informer взял блиц-интервью у Ю Судзуки (Yu Suzuki) — создателя серии Shenmue. Как обычно, немалая часть вопросов оказалась шуточной, но кое-что … <a class="read-more" href="/newsdata/40247" rel="nofollow"></a></p></div><div class="lent-actions"><div class="lent-date"><span class="glyphicons glyphicons-calendar"></span>04.10.2019</div><div class="lent-views"><span class="glyphicons glyphicons-eye-open"></span>1375</div><div class="lent-comments"><span class="glyphicons glyphicons-comments"></span>6</div><div class="tags"><span class="glyphicons glyphicons-tag"></span><a href="/news/pc">PC</a>, <a href="/news/ps4">PlayStation 4</a></div></div></div></div><div class="lent-block news-lent"><div class="lent-image"><a href="/newsdata/40246"><img src="https://stopga.me/images/news/2019/10/04/c170x96/q8uifW_zmOlWnsMNILdMww/4DsuKeg.jpg"  srcset="https://stopga.me/images/news/2019/10/04/c480x270/IB_U3TiTzGFcSCoImmgpHA/4DsuKeg.jpg 2x" alt="Кевин Конрой подтвердил, что он не озвучивает Бэтмена в грядущей игре"></a></div><div class="lent-brief"><div class="title lent-title"><a href="/newsdata/40246">Кевин Конрой подтвердил, что он не озвучивает Бэтмена в грядущей игре</a></div><div class="brief"><p>В последнее время в Сети возникает всё больше намёков на существование новой игры про Бэтмена. К производству новинки почти наверняка причастен Роджер… <a class="read-more" href="/newsdata/40246" rel="nofollow"></a></p></div><div class="lent-actions"><div class="lent-date"><span class="glyphicons glyphicons-calendar"></span>04.10.2019</div><div class="lent-views"><span class="glyphicons glyphicons-eye-open"></span>3181</div><div class="lent-comments"><span class="glyphicons glyphicons-comments"></span>9</div><div class="tags"><span class="glyphicons glyphicons-tag"></span><a href="/news/industry">Индустрия</a></div></div></div></div><div class="lent-block news-lent"><div class="lent-image"><a href="/newsdata/40245"><img src="https://stopga.me/images/news/2019/10/04/c170x96/AU_Xb8Ofx6ty3_-SvwPv8A/EYXl1WA6u.jpg"  srcset="https://stopga.me/images/news/2019/10/04/c480x270/YjjUkOW8MbNkdrLTobJbJg/EYXl1WA6u.jpg 2x" alt="Релизный трейлер GRID напоминает, что до выхода гонки осталась неделя"></a></div><div class="lent-brief"><div class="title lent-title"><a href="/newsdata/40245">Релизный трейлер GRID напоминает, что до выхода гонки осталась неделя</a></div><div class="brief"><p>Ровно через неделю стартует GRID — перезапуск одноимённой гоночной серии. Чтобы вы об этом не позабыли, Codemasters представила релизный трейлер.  Н… <a class="read-more" href="/newsdata/40245" rel="nofollow"></a></p></div><div class="lent-actions"><div class="lent-date"><span class="glyphicons glyphicons-calendar"></span>04.10.2019</div><div class="lent-views"><span class="glyphicons glyphicons-eye-open"></span>1985</div><div class="lent-comments"><span class="glyphicons glyphicons-comments"></span>6</div><div class="tags"><span class="glyphicons glyphicons-tag"></span><a href="/news/pc">PC</a>, <a href="/news/ps4">PlayStation 4</a>, <a href="/news/stadia">Stadia</a>, <a href="/news/xone">Xbox One</a></div></div></div></div><div class="lent-block news-lent"><div class="lent-image"><a href="/newsdata/40244"><img src="https://stopga.me/images/news/2019/10/04/c170x96/rscSltJ0WjalOXEE9VsgLg/WWc4l81.jpg"  srcset="https://stopga.me/images/news/2019/10/04/c480x270/iwLr51xJETkJuwBHKU-iuw/WWc4l81.jpg 2x" alt="Focus Home удалила 9 из 10 страниц игр от Frogwares — выжила только Sherlock Holmes: Crimes &amp; Punishments для Steam"></a></div><div class="lent-brief"><div class="title lent-title"><a href="/newsdata/40244">Focus Home удалила 9 из 10 страниц игр от Frogwares — выжила только Sherlock Holmes: Crimes & Punishments для Steam</a></div><div class="brief"><p>26 сентября студия Frogwares выступила с официальным заявлением — по вине издательства Focus Home Interactive её игры начали исчезать из цифровых мага… <a class="read-more" href="/newsdata/40244" rel="nofollow"></a></p></div><div class="lent-actions"><div class="lent-date"><span class="glyphicons glyphicons-calendar"></span>04.10.2019</div><div class="lent-views"><span class="glyphicons glyphicons-eye-open"></span>3285</div><div class="lent-comments"><span class="glyphicons glyphicons-comments"></span>6</div><div class="tags"><span class="glyphicons glyphicons-tag"></span><a href="/news/industry">Индустрия</a>, <a href="/news/pc">PC</a>, <a href="/news/ps3">PlayStation 3</a>, <a href="/news/ps4">PlayStation 4</a>, <a href="/news/x360">Xbox 360</a>, <a href="/news/xone">Xbox One</a></div></div></div></div><div class="lent-block news-lent"><div class="lent-image"><a href="/newsdata/40243"><img src="https://stopga.me/images/news/2019/10/05/c170x96/bVrgPhE8DtYOCYcwf1Ubvg/W_9IcVt.jpg"  srcset="https://stopga.me/images/news/2019/10/05/c480x270/J6GitC_zDktf2v4GEz_y6Q/W_9IcVt.jpg 2x" alt="Композитор Journey и The Banner Saga написал музыку для John Wick Hex"></a></div><div class="lent-brief"><div class="title lent-title"><a href="/newsdata/40243">Композитор Journey и The Banner Saga написал музыку для John Wick Hex</a></div><div class="brief"><p>Некоторые фанаты «Джона Уика», жаждущие увидеть дорогой интерактивный боевик по мотивам фильмов, заранее воротят нос от тактики John Wick Hex. Однако … <a class="read-more" href="/newsdata/40243" rel="nofollow"></a></p></div><div class="lent-actions"><div class="lent-date"><span class="glyphicons glyphicons-calendar"></span>04.10.2019</div><div class="lent-views"><span class="glyphicons glyphicons-eye-open"></span>1566</div><div class="lent-comments"><span class="glyphicons glyphicons-comments"></span>2</div><div class="tags"><span class="glyphicons glyphicons-tag"></span><a href="/news/pc">PC</a></div></div></div></div><div class="lent-block news-lent"><div class="lent-image"><a href="/newsdata/40242"><img src="https://stopga.me/images/news/2019/10/04/c170x96/Pv0wzZqlpl82icbRpz-zHQ/nIXwdSy.jpg"  srcset="https://stopga.me/images/news/2019/10/04/c480x270/h8Je-ydWCg9NEiAw8aKhmA/nIXwdSy.jpg 2x" alt="В Monster Hunter: World — Iceborne заглянут Леон и Клэр из Resident Evil"></a></div><div class="lent-brief"><div class="title lent-title"><a href="/newsdata/40242">В Monster Hunter: World — Iceborne заглянут Леон и Клэр из Resident Evil</a></div><div class="brief"><p>Авторы Monster Hunter: World любят всевозможные кроссоверы — игру уже посещали Геральт из «Ведьмака» и Элой из Horizon: Zero Dawn. Сегодня Capcom пред… <a class="read-more" href="/newsdata/40242" rel="nofollow"></a></p></div><div class="lent-actions"><div class="lent-date"><span class="glyphicons glyphicons-calendar"></span>04.10.2019</div><div class="lent-views"><span class="glyphicons glyphicons-eye-open"></span>3705</div><div class="lent-comments"><span class="glyphicons glyphicons-comments"></span>13</div><div class="tags"><span class="glyphicons glyphicons-tag"></span><a href="/news/ps4">PlayStation 4</a>, <a href="/news/xone">Xbox One</a></div></div></div></div><div class="lent-block news-lent"><div class="lent-image"><a href="/newsdata/40241"><img src="https://stopga.me/images/news/2019/10/04/c170x96/dtXcRusNQ49XpPRtA_EIaQ/BPntt9G4.jpg"  srcset="https://stopga.me/images/news/2019/10/04/c480x270/jYP3o5ltIVbbz9IGqFj2XQ/BPntt9G4.jpg 2x" alt="Анонсирована Red Dead Redemption 2 для PC. Релиз — 5 ноября"></a></div><div class="lent-brief"><div class="title lent-title"><a href="/newsdata/40241">Анонсирована Red Dead Redemption 2 для PC. Релиз — 5 ноября</a></div><div class="brief"><p>Свершилось — Rockstar Games наконец-то официально анонсировала компьютерную версию Red Dead Redemption 2! Релиз назначен на 5 ноября.  PC-версия пох… <a class="read-more" href="/newsdata/40241" rel="nofollow"></a></p></div><div class="lent-actions"><div class="lent-date"><span class="glyphicons glyphicons-calendar"></span>04.10.2019</div><div class="lent-views"><span class="glyphicons glyphicons-eye-open"></span>25K</div><div class="lent-comments"><span class="glyphicons glyphicons-comments"></span>215</div><div class="tags"><span class="glyphicons glyphicons-tag"></span><a href="/news/pc">PC</a>, <a href="/news/stadia">Stadia</a></div></div></div></div><div class="lent-block news-lent"><div class="lent-image"><a href="/newsdata/40240"><img src="https://stopga.me/images/news/2019/10/04/c170x96/KGvpoG0E-YH_8KREOwoYzQ/-6wQ-lN3A.jpg"  srcset="https://stopga.me/images/news/2019/10/04/c480x270/fnU1e1NjbEirdocCxuyz2Q/-6wQ-lN3A.jpg 2x" alt="В Apex Legends близится хэллоуинский ивент с зомби и ночной картой"></a></div><div class="lent-brief"><div class="title lent-title"><a href="/newsdata/40240">В Apex Legends близится хэллоуинский ивент с зомби и ночной картой</a></div><div class="brief"><p>Октябрь по очевидной причине становится месяцем хэллоуинских развлечений. Мы уже рассказывали о тематическом контенте для HITMAN 2 и Crash Team Racing… <a class="read-more" href="/newsdata/40240" rel="nofollow"></a></p></div><div class="lent-actions"><div class="lent-date"><span class="glyphicons glyphicons-calendar"></span>04.10.2019</div><div class="lent-views"><span class="glyphicons glyphicons-eye-open"></span>2740</div><div class="lent-comments"><span class="glyphicons glyphicons-comments"></span>4</div><div class="tags"><span class="glyphicons glyphicons-tag"></span><a href="/news/pc">PC</a>, <a href="/news/ps4">PlayStation 4</a>, <a href="/news/xone">Xbox One</a></div></div></div></div><div class="lent-block news-lent"><div class="lent-image"><a href="/newsdata/40239"><img src="https://stopga.me/images/news/2019/10/04/c170x96/i6F3qrwgnkJrrlY8FeSMIA/qsa6cI-.jpg"  srcset="https://stopga.me/images/news/2019/10/04/c480x270/ZKcHW-gUijp0TEMbtHN9cw/qsa6cI-.jpg 2x" alt="Call of Duty: Mobile показала прекрасный старт"></a></div><div class="lent-brief"><div class="title lent-title"><a href="/newsdata/40239">Call of Duty: Mobile показала прекрасный старт</a></div><div class="brief"><p>1 октября по всему миру запустилась Call of Duty: Mobile — условно-бесплатный мобильный спин-офф понятно какой серии. Спустя всего три дня Activision … <a class="read-more" href="/newsdata/40239" rel="nofollow"></a></p></div><div class="lent-actions"><div class="lent-date"><span class="glyphicons glyphicons-calendar"></span>04.10.2019</div><div class="lent-views"><span class="glyphicons glyphicons-eye-open"></span>3177</div><div class="lent-comments"><span class="glyphicons glyphicons-comments"></span>10</div><div class="tags"><span class="glyphicons glyphicons-tag"></span><a href="/news/mobile">Мобильные</a></div></div></div></div><div class="lent-block news-lent"><div class="lent-image"><a href="/newsdata/40238"><img src="https://stopga.me/images/news/2019/10/04/c170x96/kEwxPCw1Lh46EOWqs6Qo4A/IMDUMyq.jpg"  srcset="https://stopga.me/images/news/2019/10/04/c480x270/ltiKC9RkT90asHLdLnPU_A/IMDUMyq.jpg 2x" alt="Туалет в Apex Legends превратили в смертельно опасную ловушку"></a></div><div class="lent-brief"><div class="title lent-title"><a href="/newsdata/40238">Туалет в Apex Legends превратили в смертельно опасную ловушку</a></div><div class="brief"><p>В Apex Legends стартовал третий сезон, вместе с которым появилась новая карта. Игроки принялись искать свежие способы для эффективный убийств. Один пр… <a class="read-more" href="/newsdata/40238" rel="nofollow"></a></p></div><div class="lent-actions"><div class="lent-date"><span class="glyphicons glyphicons-calendar"></span>04.10.2019</div><div class="lent-views"><span class="glyphicons glyphicons-eye-open"></span>7566</div><div class="lent-comments"><span class="glyphicons glyphicons-comments"></span>20</div><div class="tags"><span class="glyphicons glyphicons-tag"></span><a href="/news/pc">PC</a>, <a href="/news/ps4">PlayStation 4</a>, <a href="/news/xone">Xbox One</a></div></div></div></div><div class="lent-block news-lent"><div class="lent-image"><a href="/newsdata/40237"><img src="https://stopga.me/images/news/2019/10/04/c170x96/Ey02DOWleV45RMhb0oNOYA/xadUgJRsJ.jpg"  srcset="https://stopga.me/images/news/2019/10/04/c480x270/4mKoaglf0yVvsN1yHshSEg/xadUgJRsJ.jpg 2x" alt="Спустя 25 лет работы один из основателей Croteam ушёл в Google Stadia"></a></div><div class="lent-brief"><div class="title lent-title"><a href="/newsdata/40237">Спустя 25 лет работы один из основателей Croteam ушёл в Google Stadia</a></div><div class="brief"><p>Croteam — хорватская компания, наиболее известная по серии Serious Sam и The Talos Principle. Ален Ладавац (Alen Ladavac) — один из основателей Crotea… <a class="read-more" href="/newsdata/40237" rel="nofollow"></a></p></div><div class="lent-actions"><div class="lent-date"><span class="glyphicons glyphicons-calendar"></span>04.10.2019</div><div class="lent-views"><span class="glyphicons glyphicons-eye-open"></span>1854</div><div class="lent-comments"><span class="glyphicons glyphicons-comments"></span>2</div><div class="tags"><span class="glyphicons glyphicons-tag"></span><a href="/news/industry">Индустрия</a>, <a href="/news/stadia">Stadia</a></div></div></div></div><div class="lent-block news-lent"><div class="lent-image"><a href="/newsdata/40236"><img src="https://stopga.me/images/news/2019/10/04/c170x96/x9dYWZnpZ40D6n35Oy2xhA/LnH0y6c.jpg"  srcset="https://stopga.me/images/news/2019/10/04/c480x270/hssYC8TXdyI3zp-Q8IFBsA/LnH0y6c.jpg 2x" alt="Дождь и неон — кадры из удивительно стильного меню управления The Last Night"></a></div><div class="lent-brief"><div class="title lent-title"><a href="/newsdata/40236">Дождь и неон — кадры из удивительно стильного меню управления The Last Night</a></div><div class="brief"><p>The Last Night — тот самый кинематографичный платформер в духе Another World, который показали на E3 2017. С тех пор он пропал с радаров, но работа ещ… <a class="read-more" href="/newsdata/40236" rel="nofollow"></a></p></div><div class="lent-actions"><div class="lent-date"><span class="glyphicons glyphicons-calendar"></span>04.10.2019</div><div class="lent-views"><span class="glyphicons glyphicons-eye-open"></span>3983</div><div class="lent-comments"><span class="glyphicons glyphicons-comments"></span>24</div><div class="tags"><span class="glyphicons glyphicons-tag"></span><a href="/news/pc">PC</a>, <a href="/news/xone">Xbox One</a></div></div></div></div><div class="lent-block news-lent"><div class="lent-image"><a href="/newsdata/40235"><img src="https://stopga.me/images/news/2019/10/04/c170x96/y6eiYMvruXG1Qb4zEqKkPg/5bAxUGAR.jpg"  srcset="https://stopga.me/images/news/2019/10/04/c480x270/JT5W3j7rxQuGB5kM199iHA/5bAxUGAR.jpg 2x" alt="Король полосы препятствий Titanfall 2 почти случайно улучшил свой рекорд на 0.2 секунды"></a></div><div class="lent-brief"><div class="title lent-title"><a href="/newsdata/40235">Король полосы препятствий Titanfall 2 почти случайно улучшил свой рекорд на 0.2 секунды</a></div><div class="brief"><p>В самом начале Titanfall 2 есть полоса препятствий — обучающая локация, где можно потренироваться в управлении. Рядом с полосой стоит внутриигровая та… <a class="read-more" href="/newsdata/40235" rel="nofollow"></a></p></div><div class="lent-actions"><div class="lent-date"><span class="glyphicons glyphicons-calendar"></span>04.10.2019</div><div class="lent-views"><span class="glyphicons glyphicons-eye-open"></span>5241</div><div class="lent-comments"><span class="glyphicons glyphicons-comments"></span>16</div><div class="tags"><span class="glyphicons glyphicons-tag"></span><a href="/news/pc">PC</a>, <a href="/news/ps4">PlayStation 4</a>, <a href="/news/xone">Xbox One</a></div></div></div></div><div class="section-pagination"><a class="page active" href="/news/all/p1">1</a><a class="page" href="/news/all/p2">2</a><a class="page" href="/news/all/p3">3</a><a class="page" href="/news/all/p4">4</a><a class="page" href="/news/all/p5">5</a><a class="page" href="/news/all/p6">6</a><a class="page" href="/news/all/p7">7</a><a class="page" href="/news/all/p8">8</a><a class="page" href="/news/all/p9">9</a><a class="page" href="/news/all/p10">10</a><a class="page" href="/news/all/p11">11</a><a class="page" href="/news/all/p12">12</a><a class="page" href="/news/all/p13">13</a><span class="page-more">...</span><a class="page" href="/news/all/p1956">1956</a><a class="page" href="/news/all/p1957">1957</a><a class="page-next" href="/news/all/p2"></a></div>
+</div></div><div class="lent-right"><div class="right-block"><div class="title title-alone">Все новости</div><div class="right-block-pad"><div class="right-block-block"><div class="title"><a href="/news/month/10/2019" class="right-block-link">Октябрь 2019</a><br></div></div><div class="clr"></div><div class="right-block-block"><div class="title"><a href="/news/month/9/2019" class="right-block-link">Сентябрь 2019</a><br></div></div><div class="clr"></div><div class="right-block-block"><div class="title"><a href="/news/month/8/2019" class="right-block-link">Август 2019</a><br></div></div><div class="clr"></div><div class="right-block-block"><div class="title"><a href="/news/month/7/2019" class="right-block-link">Июль 2019</a><br></div></div><div class="clr"></div><div class="right-block-block"><div class="title"><a href="/news/month/6/2019" class="right-block-link">Июнь 2019</a><br></div></div><div class="clr"></div><div class="right-block-block"><div class="title"><a href="/news/month/5/2019" class="right-block-link">Май 2019</a><br></div></div><div class="clr"></div><div class="right-block-block"><div class="title"><a href="/news/month/4/2019" class="right-block-link">Апрель 2019</a><br></div></div><div class="clr"></div><div class="right-block-block"><div class="title"><a href="/news/month/3/2019" class="right-block-link">Март 2019</a><br></div></div><div class="clr"></div><div class="right-block-block"><div class="title"><a href="/news/month/2/2019" class="right-block-link">Февраль 2019</a><br></div></div><div class="clr"></div><div class="right-block-block"><div class="title"><a href="/news/month/1/2019" class="right-block-link">Январь 2019</a><br></div></div><div class="clr"></div><div class="right-block-block"><div class="title"><a href="/news/month/12/2018" class="right-block-link">Декабрь 2018</a><br></div></div><div class="clr"></div><div class="right-block-block"><div class="title"><a href="/news/month/11/2018" class="right-block-link">Ноябрь 2018</a><br></div></div><div class="clr"></div></div></div><div class="right-block">
+<div class="title title-alone">Прямой эфир</div>
+<div class="right-block-pad">
+
+<div class="tab-stream" id="">
+<ul id="switcher_ul">
+<li id="switcher_li_comments" class="active"><div><a href="#" id="block_stream_comment" onclick="block_stream('comments_site');return false;">Комментарии</a></div></li>
+<li id="switcher_li_faq"><div><a href="#" id="block_stream_faq" onclick="block_stream('faq');return false;">Вопросы</a></div></li>
+<li id="switcher_li_topics"><div><a href="#" id="block_stream_topic" onclick="block_stream('topics');return false;">Блоги</a></div></li>
+</ul>
+</div>
+<div class="clr"></div>
+
+<div style="background:url(//images.stopgame.ru/site/ajax-loader-grey.gif) center no-repeat; height:50px;" class="hide" id="stream_loader"></div>
+<div id="stream_div">
+<div class="right-block-block">
+<div class="title">
+<a class="right-block-link" onClick="yaCounter36906115.reachGoal('scs'); return true;" href="https://stopgame.ru/newsdata/40251#comment_5122108">Мисс Марвел станет шестым играбельным персонажем Marvel's Avengers</a><br>
+<div class="title-categories"><a href="https://stopgame.ru/news">Новости</a> | Сегодня, 14:23</div>
+</div>
+</div>
+<div class="right-block-block">
+<div class="title">
+<a class="right-block-link" onClick="yaCounter36906115.reachGoal('scs'); return true;" href="https://stopgame.ru/newsdata/40254#comment_5122106">Разработчики Rainbow Six Siege думают ввести оперативника с собакой и стрелка по-македонски</a><br>
+<div class="title-categories"><a href="https://stopgame.ru/news">Новости</a> | Сегодня, 14:19</div>
+</div>
+</div>
+<div class="right-block-block">
+<div class="title">
+<a class="right-block-link" onClick="yaCounter36906115.reachGoal('scs'); return true;" href="https://stopgame.ru/newsdata/40241#comment_5122103">Анонсирована Red Dead Redemption 2 для PC. Релиз — 5 ноября</a><br>
+<div class="title-categories"><a href="https://stopgame.ru/news">Новости</a> | Сегодня, 13:24</div>
+</div>
+</div>
+<div class="right-block-block">
+<div class="title">
+<a class="right-block-link" onClick="yaCounter36906115.reachGoal('scs'); return true;" href="https://stopgame.ru/newsdata/40252#comment_5122100">Сообщество Fortnite жалуется, что новый матчмейкинг сводит вместе PC, консоли и телефоны, но Epic пока не считает это проблемой</a><br>
+<div class="title-categories"><a href="https://stopgame.ru/news">Новости</a> | Сегодня, 13:03</div>
+</div>
+</div>
+<div class="right-block-block">
+<div class="title">
+<a class="right-block-link" onClick="yaCounter36906115.reachGoal('scs'); return true;" href="https://stopgame.ru/newsdata/40253#comment_5122099">В Bloodborne началось «Возвращение в Ярнам» — фанатское событие по оздоровлению онлайна</a><br>
+<div class="title-categories"><a href="https://stopgame.ru/news">Новости</a> | Сегодня, 13:00</div>
+</div>
+</div>
+<div class="right-block-block">
+<div class="title">
+<a class="right-block-link" onClick="yaCounter36906115.reachGoal('scs'); return true;" href="https://stopgame.ru/show/106188/i_kakaya_zhe_eto_switch_review_nintendo_switch_lite#comment_5122097">И какая же это Switch? Обзор Nintendo Switch Lite</a><br>
+<div class="title-categories"><a href="https://stopgame.ru/frontpage/new">Первая полоса</a> | Сегодня, 12:28</div>
+</div>
+</div>
+<div class="right-block-block">
+<div class="title">
+<a class="right-block-link" onClick="yaCounter36906115.reachGoal('scs'); return true;" href="https://stopgame.ru/show/106173/bolshoy_videoigrovoy_reportazh_iz_yaponii#comment_5122094">Большой видеоигровой репортаж из Японии!</a><br>
+<div class="title-categories"><a href="https://stopgame.ru/sgtv/new">SGTV-другое</a> | Сегодня, 11:59</div>
+</div>
+</div>
+<div class="right-block-block">
+<div class="title">
+<a class="right-block-link" onClick="yaCounter36906115.reachGoal('scs'); return true;" href="https://stopgame.ru/show/106186/blasphemous_review#comment_5122090">Blasphemous: Обзор</a><br>
+<div class="title-categories"><a href="https://stopgame.ru/review/new">Обзоры игр</a> | Сегодня, 11:17</div>
+</div>
+</div>
+<div class="right-block-block">
+<div class="title">
+<a class="right-block-link" onClick="yaCounter36906115.reachGoal('scs'); return true;" href="https://stopgame.ru/newsdata/40245#comment_5122084">Релизный трейлер GRID напоминает, что до выхода гонки осталась неделя</a><br>
+<div class="title-categories"><a href="https://stopgame.ru/news">Новости</a> | Сегодня, 10:55</div>
+</div>
+</div>
+<div class="right-block-block">
+<div class="title">
+<a class="right-block-link" onClick="yaCounter36906115.reachGoal('scs'); return true;" href="https://stopgame.ru/show/106171/infact_04_10_2019#comment_5122080">Инфакт [04.10.2019]</a><br>
+<div class="title-categories"><a href="https://stopgame.ru/infact/new">Игровые видео новости</a> | Сегодня, 10:35</div>
+</div>
+</div>
+<div class="right-block-block">
+<div class="title">
+<a class="right-block-link" onClick="yaCounter36906115.reachGoal('scs'); return true;" href="https://stopgame.ru/newsdata/40242#comment_5122078">В Monster Hunter: World — Iceborne заглянут Леон и Клэр из Resident Evil</a><br>
+<div class="title-categories"><a href="https://stopgame.ru/news">Новости</a> | Сегодня, 10:11</div>
+</div>
+</div>
+<div class="right-block-block">
+<div class="title">
+<a class="right-block-link" onClick="yaCounter36906115.reachGoal('scs'); return true;" href="https://stopgame.ru/show/87965/tales_of_berseria_videoreview#comment_5122073">Tales of Berseria: Видеообзор</a><br>
+<div class="title-categories"><a href="https://stopgame.ru/review/new">Обзоры игр</a> | Сегодня, 09:49</div>
+</div>
+</div>
+<div class="right-block-block">
+<div class="title">
+<a class="right-block-link" onClick="yaCounter36906115.reachGoal('scs'); return true;" href="https://stopgame.ru/show/106095/naydi_10_otlichiy_review_novoy_revizii_nintendo_switch#comment_5122057">Найди 10 отличий — обзор новой ревизии Nintendo Switch</a><br>
+<div class="title-categories"><a href="https://stopgame.ru/frontpage/new">Первая полоса</a> | Сегодня, 05:39</div>
+</div>
+</div>
+<div class="right-block-block">
+<div class="title">
+<a class="right-block-link" onClick="yaCounter36906115.reachGoal('scs'); return true;" href="https://stopgame.ru/show/105854/yaponskaya_dich_godzilla_vs_evangelion_city_shrouded_in_shadow#comment_5122043">City Shrouded in Shadow: Японская ДИЧЬ! Годзилла VS Евангелион! City Shrouded in Shadow</a><br>
+<div class="title-categories"><a href="https://stopgame.ru/sgtv/new">SGTV-другое</a> | Сегодня, 03:45</div>
+</div>
+</div>
+<div class="right-block-block">
+<div class="title">
+<a class="right-block-link" onClick="yaCounter36906115.reachGoal('scs'); return true;" href="https://stopgame.ru/show/95969/marvel_s_guardians_of_the_galaxy_the_telltale_series_review_sezona#comment_5122027">Marvel's Guardians of the Galaxy: The Telltale Series: Обзор сезона</a><br>
+<div class="title-categories"><a href="https://stopgame.ru/review/new">Обзоры игр</a> | Сегодня, 00:56</div>
+</div>
+</div>
+</div>
+</div>
+</div><div><!-- Yandex.RTB R-A-448424-1 -->
+<div id="yandex_rtb_R-A-448424-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-448424-1",
+                renderTo: "yandex_rtb_R-A-448424-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script></div><div><script type="text/javascript" src="//vk.com/js/api/openapi.js"></script>
+
+<!-- VK Widget -->
+<div id="vk_groups"></div>
+<script type="text/javascript">
+VK.Widgets.Group("vk_groups", {mode: 0, width: "240", height: "400", color1: 'FFFFFF', color2: '2B587A', color3: '5B7FA6'}, 17833376);
+</script></div></div><div class="clr"></div></div><div class="hide786 footer_direct_1"><!-- R-138071-11 Яндекс.RTB-блок  -->
+<div id="yandex_ad_R-138071-11"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-138071-11",
+                renderTo: "yandex_ad_R-138071-11",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script><div class="clr"></div></div><div class="section-footer">
+<div class="footer-top hide1035">
+<div class="ft-container"><div class="ft-menu-title"><h4>Игры</h4></div><ul class="ft-menu"><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/search/?where=games">Поиск</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/dates">Даты выхода</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/blogs/reviews">Обзоры посетителей</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/facts">Факты</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/topgames">Топ-100</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/mods">Модификации</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/mobile_games">Обзор мобильных игр</a></li></ul></div><div class="ft-container"><div class="ft-menu-title"><h4>Новости</h4></div><ul class="ft-menu"><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/news">Все</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/news/gamescom"><b>gamescom</b></a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/news/pc">PC</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/news/x360">Xbox 360</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/news/xone">Xbox One</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/news/ps3">PlayStation 3</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/news/ps4">PlayStation 4</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/news/psvita">PS Vita</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/news/stadia">Stadia</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/news/vr">VR</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/news/wiiu">Wii U</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/news/nintendo_switch">Nintendo Switch</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/news/madbox">Mad Box</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/news/mmo">ММО</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/news/mobile">Мобильные</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/news/social">Социальные</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/news/hard">Железо</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/news/industry">Индустрия</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/news/cybersport">Киберспорт</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/news/movies">Кино</a></li></ul></div><div class="ft-container"><div class="ft-menu-title"><h4>Статьи</h4></div><ul class="ft-menu"><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/frontpage/new">Первая полоса</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/review/new">Рецензии</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/preview/new">Превью</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/interview/new">Интервью</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/hard/new">Железный дайджест</a></li></ul></div><div class="ft-container"><div class="ft-menu-title"><h4>Видео</h4></div><ul class="ft-menu"><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/infact/new">Инфакт</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/igrozor/new">Игрозор</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/calendar/new">Календарь релизов</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/mmodern/new">ММОдерн</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/retrozor/new">Ретрозор</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/indicator/new">Индикатор</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/appzor/new">Appzor</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/review/new/video">Обзоры</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/preview/new/video">Превью</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/vreports/new">Репортажи</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/razbor/new">Разбор полетов</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/games_history/new">История серии</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/trailers/new">Трейлеры</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/machinima/new">Машинима</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/gamemovie/new">Игровое кино</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/trudnosti/new">Трудности перевода</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/sgtv/new">Другое</a></li></ul></div><div class="ft-container"><div class="ft-menu-title"><h4>Секреты</h4></div><ul class="ft-menu"><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/solutions/new">Прохождения</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/cheats/new">Чит-коды</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/trainers/new">Трейнеры</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/saves/new">Сохранения</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/tactics/new">Советы и тактика</a></li></ul></div><div class="ft-container"><div class="ft-menu-title"><h4>Блоги</h4></div><ul class="ft-menu"><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/blogs">Новые темы</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/blogs/communities">Сообщества</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/blogs/top/good/month">Топ</a></li></ul></div><div class="ft-container"><div class="ft-menu-title"><h4>FAQ</h4></div><ul class="ft-menu"><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/faq">Новые вопросы</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/faq/popular">Популярные</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/rules">Правила сайта</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/site_help">Помощь по сайту</a></li><li><a  onClick="yaCounter36906115.reachGoal('footer_menu'); return true;" href="/jobs">Работа на сайте</a></li></ul></div><div class="clr"></div>
+
+<div class="subscribe-form">
+<form target="_blank" action="https://subscribe.ru/member/quick" method="get">
+<input type="hidden" name="action" value="quick">
+<input type="hidden" name="src" value="list_games.fantasy">
+<input type="hidden" name="grp" value="games.fantasy">
+<div class="ft-menu-title"><h4>Подписка на игровые новости</h4>
+<div class="subscribe-email"><input type="text" name="email" maxlength="100" class="input-field" placeholder="ваш email"></div>
+<div class="subscribe-submit"><input type="submit" class="button-type button-blue" value="Подписаться"></div>
+<ul class="ft-menu">
+</ul>
+</div>
+</form>
+</div>
+<div class="clr"></div>
+
+<div class="sg_links">
+<a href="https://stopgame.ru/show/3423/soldier_of_fortune_2_double_helix_6_trainer">+6 трейнер к игре Soldier of Fortune 2: Double Helix</a>. <a href="https://stopgame.ru/show/29866/red_war_edems_curse_screenshots">Скриншоты из игры Red War: Edem's Curse</a>. <a href="https://stopgame.ru/show/63821/brutal_legend_beseda_s_programmistkoy_e3_09">Беседа с программисткой (E3 09) к игре Brutal Legend</a>. <a href="https://stopgame.ru/show/64774/supreme_commander_2_debyutnyy_trailer">Дебютный трейлер к игре Supreme Commander 2</a>.</div>
+<div class="clr"></div>
+
+</div>
+
+<div class="footer-bottom">
+<div class="footer-logo"><a href="/" class="ft-logo"><img alt="StopGame.ru - Игровой портал" src="https://stopga.me/images/site/logo-ft.png" height="29" width="156"></a></div>
+<a href="/click/?http://proxima.agency/" class="created-by matrosked hide767"><span>Дизайн сайта — </span></a>
+<div class="footer-info-menu">
+
+<div class="counters-bottom">
+<div class="site-rate" title="Содержание сайта не предназначено лицам младше 18 лет">18+</div>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2245085-3']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  function recordOutboundLink(link, category, action) {
+  try {
+    var pageTracker=_gat._getTracker("UA-2245085-3");
+    pageTracker._trackEvent(category, action);
+    setTimeout('document.location = "' + link.href + '"', 100)
+  }catch(err){}
+}
+</script>
+<!-- Rating@Mail.ru logo -->
+<a href="/click/?http://top.mail.ru/jump?from=49039" target="_blank"><img src="//top-fwz1.mail.ru/counter?id=49039;t=280;l=1" style="border:0;" height="31" width="38" alt="Рейтинг@Mail.ru"></a>
+<!-- //Rating@Mail.ru logo -->
+<!--LiveInternet logo-->
+<a href="/click/?http://www.liveinternet.ru/click" target="_blank"><img src="//counter.yadro.ru/logo?44.3" title="LiveInternet" alt="" border="0" width="31" height="31"></a>
+<!--/LiveInternet-->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter36906115 = new Ya.Metrika({ id:36906115, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/36906115" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --></div>
+
+<ul class="info-menu">
+<li><a href="/adver">Реклама</a></li>
+<li><a href="/contact">Контакты</a></li>
+<li><a href="/jobs">Вакансии</a></li>
+<li><a href="/export">RSS ленты</a></li>
+</ul>
+</div>
+<div class="clr"></div>
+
+<div class="footer-copyr">
+<div class="copyr">© 1999-2019 StopGame.ru</div>
+<div class="copyr-text">Использование любых материалов сайта без согласования с администрацией запрещено.</div>
+<div class="copyr-text"><a href="/rules"><strong>Пользовательское соглашение</strong></a></div>
+</div>
+</div>
+</div>
+</div>
+<div id="adfox_150582878559636876"></div>
+<script>
+    window.Ya.adfoxCode.create({
+        ownerId: 202735,
+        containerId: 'adfox_150582878559636876',
+        params: {
+            pp: 'g',
+            ps: 'bfcj',
+            p2: 'epcf'
+        }
+    });
+</script>
+
+
+
+<!--AdFox START-->
+<!--stopgame-->
+<!--Площадка: StopGame / * / *-->
+<!--Тип баннера: Проброс кода [loader]-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_155875787770166438"></div>
+<script>
+    window.Ya.adfoxCode.create({
+        ownerId: 202735,
+        containerId: 'adfox_155875787770166438',
+        params: {
+            pp: 'g',
+            ps: 'bfcj',
+            p2: 'gknv'
+        }
+    });
+</script><div id="adfox_150643171673217185"></div>
+<script>
+    window.Ya.adfoxCode.create({
+        ownerId: 202735,
+        containerId: 'adfox_150643171673217185',
+        params: {
+            pp: 'g',
+            ps: 'bfcj',
+            p2: 'epdu'
+        }
+    });
+</script><div class="outer-click"></div>
+<div class="inTop hide1150"><span>Наверх &uarr;</span></div>
+<script type="text/javascript" src="https://static.stopgame.ru/js/jquery.scrollTo.min.js?49"></script>
+<script type="text/javascript" src="https://static.stopgame.ru/js/jquery.form.min.js?49"></script>
+<script type="text/javascript" src="https://static.stopgame.ru/js/jquery.mousewheel.min.js?49"></script>
+<script type="text/javascript" src="https://static.stopgame.ru/js/jquery.tools.min.js?49"></script>
+<script type="text/javascript" src="https://static.stopgame.ru/js/jquery.nyroModal.custom.min.js?49"></script>
+<script type="text/javascript" src="https://static.stopgame.ru/js/rollbar/jquery.rollbar.min.js?49"></script>
+<script type="text/javascript" src="https://static.stopgame.ru/js/flexslider/jquery.flexslider-min.js?49"></script>
+<script type="text/javascript" src="https://static.stopgame.ru/js/social-likes/social-likes.min.js?49"></script>
+<script type="text/javascript" src="https://static.stopgame.ru/js/jquery.autocomplete.js?49"></script>
+<script type="text/javascript" src="https://static.stopgame.ru/js/jquery.slider.min.js?49"></script>
+<script type="text/javascript" src="https://static.stopgame.ru/js/tooltipster/tooltipster.bundle.min.js?49"></script>
+<script type="text/javascript" src="https://static.stopgame.ru/js/gifplayer/gifplayer.js?49"></script>
+<script type="text/javascript" src="https://static.stopgame.ru/js/stopgame.js?49"></script>
+<script type="text/javascript" src="https://static.stopgame.ru/js/adaptive.js?49"></script>
+<script>
+	$(function(){
+		var brand_h = $('#contentShifter').outerHeight();
+		var body_w = $(window).width();
+
+		if (brand_h && body_w < 1035) {
+			$("body").css("background-position-y", "50px", "important");
+			$("body").css("padding-top", "50px", "important");
+		}
+	});
+</script>
+</body>
+</html>
